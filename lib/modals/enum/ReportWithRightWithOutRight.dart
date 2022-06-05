@@ -1,0 +1,5 @@
+
+enum ReportWithRightWithOutRight{
+  allRights,
+  withOutRights
+}

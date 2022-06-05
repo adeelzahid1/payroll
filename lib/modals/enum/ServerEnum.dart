@@ -1,0 +1,5 @@
+enum ServerEnum {
+  Dev,
+  Test,
+
+}
